@@ -1,3 +1,16 @@
+/*
+------------------------------------------
+Student Management System
+Developed By : Samiksha Chougule
+Language     : C++
+Concepts Used:
+- Object Oriented Programming
+- File Handling
+- Vectors
+- Functions
+- Menu Driven Programming
+------------------------------------------
+*/
 #include <iostream>
 #include <fstream>
 #include <string>
