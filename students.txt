@@ -1,0 +1,3 @@
+101|Samiksha Chougule|18|Computer Engineering
+102|Priya Sharma|19|Data Science
+103|Rahul Patil|18|Information Technology
